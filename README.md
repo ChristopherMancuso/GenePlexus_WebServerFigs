@@ -1,4 +1,4 @@
-## A Few extra scripts/files have been addded to results for making figures for the web server
+### A Few extra scripts/files have been addded to results or plot for making figures for the web server
 
 # GenePlexus
 This repository contains data and code to generate the results and reproduce the figures and tables found in [_Supervised learning is an accurate method for network-based gene classification_](https://doi.org/10.1093/bioinformatics/btaa150) `Bioinformatics DOI: 10.1093/bioinformatics/btaa150`. This work focuses on comparing two classes of network-based gene classification methods: supervised learning (SL) and label propagation (LP). The comparison is performed systematically across diverse prediction tasks (functions, diseases, and traits) and molecular networks using meaningful validation schemes and evaluation metrics. Based on this extensive analysis, we find that supervised learning outperforms label propagation for gene classification, especially for function prediction.
